@@ -1,5 +1,5 @@
 module.exports = {
-    contractAddress: '0x5678Bfe86efdF967F4eC9e09B2e184C1d88bD7d8',
+    contractAddress: '0x1690d8058Fc25e9B7b277c7aDcF4e9dFC27D4FDb',
     contractABI: [
       {
         "anonymous": false,
