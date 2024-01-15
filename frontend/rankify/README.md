@@ -7,7 +7,7 @@
 ## Features
 
 - QR code scanning
-- Frontend for Review and Restaurants pages
+- Frontend for Payment simulation, Review submission and Restaurants pages
 
 # Installation
 
