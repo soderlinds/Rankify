@@ -1,0 +1,31 @@
+@import './_colors'
+@import './_mediaqueries'
+  
+.reviews
+  flex-grow: 1
+  padding: 1rem
+  background-color: $beige
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.1)
+  margin-left: 1rem
+  margin-right: 1rem
+
+  @include for-phone-only
+    margin-bottom: 1rem
+
+  @include for-tablet-portrait-up
+    margin-bottom: 1rem
+
+  @include for-desktop-up
+    margin-bottom: 0rem
+
+
+.scrollable-box 
+  max-height: 25rem
+  overflow-y: auto
+  scrollbar-width: thin
+
+.reviews-header 
+  margin-bottom: 0.5rem
+  margin-top: 2rem
+  font-size: 1.2rem
+  font-family: 'Quicksand', sans-serif
