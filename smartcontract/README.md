@@ -1,6 +1,6 @@
 # Rankify Smart Contract
 
-- This smart contract, written in Solidity, forms the backbone of the Rankify project. It facilitates the generation of QR codes, submission of reviews,  and retrieval of review and QR code details. The contract ensures the integrity of the review process by linking each review to a unique QR code, preventing duplicate submissions.
+- This smart contract, written in Solidity, facilitates the generation of QR codes, submission of reviews,  and retrieval of review and QR code details. The contract ensures the integrity of the review process by linking each review to a unique QR code, preventing duplicate submissions.
 
 ## Tech Stack
 
