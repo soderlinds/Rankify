@@ -15,26 +15,26 @@
 
 ## State Variables
 
-    reviews: Tracks submitted reviews.
-    qrCodes: Manages generated QR codes.
-    reviewCounter and qrCodeCounter: Counters for reviews and QR codes.
+- reviews: Tracks submitted reviews.
+- qrCodes: Manages generated QR codes.
+- reviewCounter and qrCodeCounter: Counters for reviews and QR codes.
 
 ## Events
 
-      ReviewSubmitted:
+- ReviewSubmitted:
         Emits when a user submits a review.
 
-    QRCodeGenerated:
+- QRCodeGenerated:
         Emits when a new QR code is generated.
 
 ## Key Functions
 
-    generateQRCode:
+- generateQRCode:
         Generates a new QR code and associates it with a transaction ID.
 
-    submitReview:
+- submitReview:
         Allows users to submit reviews tied to a specific QR code.
 
-    getReviews and getQRCodeDetails:
+- getReviews and getQRCodeDetails:
         Retrieve review and QR code details.
 
