@@ -3,6 +3,8 @@
 ## Tech Stack
 
 - React
+- Javascript
+- SASS
 
 # Installation
 
