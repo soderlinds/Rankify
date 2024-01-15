@@ -3,8 +3,11 @@
 ## Tech Stack
 
 - React
-- Javascript
-- SASS
+
+## Features
+
+- QR code scanning
+- Frontend for Review and Restaurants pages
 
 # Installation
 
