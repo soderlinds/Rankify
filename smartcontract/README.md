@@ -5,9 +5,7 @@
 ## Tech Stack
 
 - Solidity
-- Express.js
-- CORS
-- Web3
+- Truffle
 
 # Smart Contract Features
 
