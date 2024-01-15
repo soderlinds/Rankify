@@ -8,6 +8,8 @@
 
 # Smart Contract Features
 
+## Structs
+
 - Struct for QR code handling
 - Struct for review submissions
 
